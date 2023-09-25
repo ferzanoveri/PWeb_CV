@@ -1,0 +1,12 @@
+.profilepict{
+  width: 15%;
+}
+
+.myContainer{
+  width: 700px;
+  box-shadow: 0px 0px 10px black;
+}
+
+.about-me{
+  text-align: justify;
+}
